@@ -1,7 +1,7 @@
-# Creating A Network
+# Creating A Simple Home Network
 
 <h2>Description</h2>
-Using Cisco's Packet Tracer to better my understanding of networking.
+Using Cisco's Packet Tracer to better my understanding of basic networking.
 <br />
 
 <h2>Utilities Used</h2>
